@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ChatGPT POT Generator\n"
+"Project-Id-Version: custom-css-js\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+msgid "Custom CSS & JS"
+msgstr ""
+
+msgid "Usage Tips:"
+msgstr ""
+
+msgid "To use jQuery code, wrap it in:"
+msgstr ""
+
+msgid "Or:"
+msgstr ""
+
+msgid "Media query examples:"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Tablet"
+msgstr ""
+
+msgid "Landscape Mobile"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Code Editor Theme:"
+msgstr ""
+
+msgid "Backup / Restore"
+msgstr ""
+
+msgid "Export Settings"
+msgstr ""
+
+msgid "Import Settings"
+msgstr ""
+
+msgid "Global Custom CSS"
+msgstr ""
+
+msgid "Custom CSS for desktop"
+msgstr ""
+
+msgid "Custom CSS for tablet"
+msgstr ""
+
+msgid "Custom CSS for mobile landscape"
+msgstr ""
+
+msgid "Custom CSS for mobile"
+msgstr ""
+
+msgid "Custom CSS for admin dashboard"
+msgstr ""
+
+msgid "Custom CSS for Print"
+msgstr ""
+
+msgid "Global Custom JS"
+msgstr ""
+
+msgid "On document ready JS"
+msgstr ""
+
+msgid "Custom CSS/JS settings imported successfully."
+msgstr ""
+
+msgid "Invalid JSON file."
+msgstr ""
+
